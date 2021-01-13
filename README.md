@@ -1,1 +1,1 @@
-Ruby on Rails Developer AYOTUNDE
+Ruby on Rails Developer by AYOTUNDE
